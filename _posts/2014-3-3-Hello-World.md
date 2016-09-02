@@ -9,6 +9,5 @@ Regarding issues or obstacles that got in my way, other than feeling slightly be
 
 Next week I will work on completing the assignment. After reading up on all the information required and installing all the prerequisite applicaitons, I think I am ready to breeze through this first assignment and complete it efficiently.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Overall I found the class to be very engaging. I think most people would find the segment in which professor Downing calls upon students to join him in a 1 on 1 problem sovling session to be uncomfortable, but I think it is even more helpful than lecturing to the entire class, even if he is not speaking to me directly.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
